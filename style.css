@@ -12,6 +12,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    overflow: auto;
 }
 
 main {
@@ -20,7 +21,6 @@ main {
     justify-content: center;
     width: 80%;
     height: 500px;
-    overflow: auto;
 }
 
 .list{
